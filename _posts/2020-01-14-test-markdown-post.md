@@ -1,4 +1,6 @@
 ---
+hide: true
+search_exclude: true
 toc: true
 layout: post
 description: A minimal example of using markdown with fastpages.
