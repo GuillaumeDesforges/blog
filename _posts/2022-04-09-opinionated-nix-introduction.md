@@ -1,10 +1,11 @@
 ---
 hide: false
-toc: false
 layout: post
+title: An opinionated introduction to the Nix world
 description: What's what in the Nix world?
 categories: [nix]
-title: An opinionated introduction to the Nix world
+toc: false
+comments: true
 ---
 
 > What is "_nix_" ?
