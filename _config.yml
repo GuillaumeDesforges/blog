@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Guillaume Desforges
-description: My findings and opinions
+description: A website to dump my findings and opinions
 github_username: GuillaumeDesforges
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"

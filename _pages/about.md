@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About Me
+title: About me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hi!
 
+I'm an enthusiastic guy who likes sciences, mathematics and software engineering.
 
+I'm also interested in music, dancing, economics and many other topics.
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I hope you find what you need in those posts!
